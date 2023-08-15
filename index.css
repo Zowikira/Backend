@@ -1,0 +1,24 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30PX;
+    background-image: url("9392b84a8544ba9535178a59c7a55977.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: lightgray;
+}
+h1{
+    color: gold;
+}
+.order{
+    border: 5px solid ;
+    border-radius: 30%;
+    background-color: yellowgreen;
+    margin-bottom: 50px;
+    text-decoration: none;
+    padding: 10px;
+}
